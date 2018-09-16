@@ -1,0 +1,8 @@
+{
+  "name": "aliyun-iot-demo",
+  "dependencies": {
+    "aliyun-iot-mqtt": "^0.0.4"
+  },
+  "author": "wongxming",
+  "license": "MIT"
+}
